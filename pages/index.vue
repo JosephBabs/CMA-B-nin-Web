@@ -2,15 +2,16 @@
   <div>
     <Header />
     <MainSliderOne />
-    <AboutTwo />
-    <CausesCarousel />
+    <AboutOne />
+    <!-- <CausesCarousel /> -->
+    
+    <!-- <ContactHome /> -->
+    <GalleryCarousel />
+    <!-- <TestimonialsCarouselOne className="" /> -->
+    <!-- <VideoOne /> -->
+    <NewsHome />
     <CallToActionTwo className="" />
     <ThreeBoxes />
-    <ContactHome />
-    <GalleryCarousel />
-    <TestimonialsCarouselOne className="" />
-    <VideoOne />
-    <NewsHome />
     <SponsorsOne />
     <Footer />
     <SearchPopup />

@@ -6,130 +6,53 @@
   },
   "navMenus": [
     {
-      "name": "Home",
+      "name": "Accueil",
       "url": "/",
       "subItems": [
-        {
-          "name": "Home 01",
-          "url": "/"
-        },
-        {
-          "name": "Home 02",
-          "url": "/index-2"
-        },
-        {
-          "name": "Home 03",
-          "url": "/index-3"
-        },
-        {
-          "name": "Header Styles",
-          "url": "#",
-          "subItems": [
-            {
-              "name": "Header 01",
-              "url": "/"
-            },
-            {
-              "name": "Header 02",
-              "url": "/index-2"
-            },
-            {
-              "name": "Header 03",
-              "url": "/index-3"
-            }
-          ]
-        }
+        
       ]
     },
     {
-      "name": "Pages",
-      "url": "/about",
+      "name": "A propos",
+      "url": "/about"
+    },
+    {
+      "name": "Gallerie",
+      "url": "/gallery",
       "subItems": [
-        {
-          "name": "About",
-          "url": "/about"
-        },
-        {
-          "name": "Volunteers",
-          "url": "/volunteers"
-        },
-        {
-          "name": "Gallery",
-          "url": "/gallery"
-        },
-        {
-          "name": "Become a Volunteer",
-          "url": "/become-volunteer"
-        }
+       
       ]
     },
+    
     {
-      "name": "Donations",
-      "url": "/causes",
-      "subItems": [
-        {
-          "name": "Causes",
-          "url": "/causes"
-        },
-        {
-          "name": "Causes Details",
-          "url": "/causes-details"
-        }
-      ]
+      "name": "Actualités",
+      "url": "/news"
     },
     {
-      "name": "Events",
-      "url": "/events",
-      "subItems": [
-        {
-          "name": "Events",
-          "url": "/events"
-        },
-        {
-          "name": "Events Details",
-          "url": "/events-details"
-        }
-      ]
-    },
-    {
-      "name": "News",
-      "url": "/news",
-      "subItems": [
-        {
-          "name": "News",
-          "url": "/news"
-        },
-        {
-          "name": "News Details",
-          "url": "/news-details"
-        }
-      ]
-    },
-    {
-      "name": "Contact",
+      "name": "Contacts",
       "url": "/contact"
     }
   ],
   "sliderOne": [
     {
       "image": "/backgrounds/main-slider-1-1.jpg",
-      "subtitle": "Helping Them Today",
-      "title": "Help the Poor <br> in Need",
-      "buttonLabel": "Learn More",
+      "subtitle": "CMA-Bénin",
+      "title": "Chambre des <br>Métiers de l'artisanat",
+      "buttonLabel": "En savoir plus",
       "buttonUrl": "/about"
     },
     {
       "image": "/backgrounds/main-slider-2-1.jpg",
-      "subtitle": "Helping Them Today",
-      "title": "Help the Poor <br> in Need",
-      "buttonLabel": "Learn More",
+      "subtitle": "CMA-Bénin",
+      "title": "Moderniser l'apprentissage <br>au Bénin",
+      "buttonLabel": "En savoir plus",
       "buttonUrl": "/about"
     },
     {
       "image": "/backgrounds/main-slider-3-1.jpg",
-      "subtitle": "Helping Them Today",
-      "title": "Help the Poor <br> in Need",
-      "buttonLabel": "Learn More",
+      "subtitle": "CMA-Bénin",
+      "title": "Chambre des Métiers <br>de l'artisanat",
+      "buttonLabel": "En savoir plus",
       "buttonUrl": "/about"
     }
   ],
@@ -138,7 +61,7 @@
       "image": "/backgrounds/main-slider-1-1.jpg",
       "subtitle": "Help is Our Goal",
       "title": "Give them a <br> Helping Hand",
-      "buttonLabel": "Learn More",
+      "buttonLabel": "En savoir plus",
       "buttonUrl": "/about"
     },
     {
@@ -176,6 +99,14 @@
     {
       "count": 4390,
       "text": "Volunteers are Available"
+    },
+    {
+      "count": 8900,
+      "text": "Funds Raised by People"
+    },
+    {
+      "count": 8900,
+      "text": "Funds Raised by People"
     },
     {
       "count": 8900,
@@ -611,25 +542,25 @@
   ],
   "features": [
     {
-      "title": "Healthy Food",
-      "text": "Lorem ipsum is simply free text available amet,\n                                        consectetuer adipiscing elit. There are not many passages of ipsum.",
-      "icon": "icon-fast-food",
+      "title": "Inscription",
+      "text": "Être inscrit au registre des métiers de l'artisanat ;\n   ",
+      "icon": "",
       "url": "/causes-details",
-      "buttonLabel": "Donate"
+      "buttonLabel": ""
     },
     {
-      "title": "Clean Water",
-      "text": "Lorem ipsum is simply free text available amet,\n                                        consectetuer adipiscing elit. There are not many passages of ipsum.",
-      "icon": "icon-water",
+      "title": "Carte professionnelle",
+      "text": "Être détenteur de la \n carte professionnelle   ",
+      "icon": "",
       "url": "/causes-details",
-      "buttonLabel": "Donate"
+      "buttonLabel": ""
     },
     {
-      "title": "Medical Treatment",
-      "text": "Lorem ipsum is simply free text available amet,\n                                        consectetuer adipiscing elit. There are not many passages of ipsum.",
-      "icon": "icon-health-check",
+      "title": "Etabli sur territoire",
+      "text": "Être établi sur le territoire béninois et y développer de façon effective ses activités artisanales.,\n     ",
+      "icon": "",
       "url": "/causes-details",
-      "buttonLabel": "Donate"
+      "buttonLabel": ""
     }
   ],
   "featuresTwo": [

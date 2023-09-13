@@ -19,13 +19,12 @@
         <div class="col-xl-12">
           <div class="join-one__inner">
             <h2 class="join-one__title">
-              Join the community to give <br />
-              education for children
+              Critères d'éligibilité
             </h2>
-            <nuxt-link to="/become-volunteer" class="join-one__btn thm-btn">
+            <!-- <nuxt-link to="/become-volunteer" class="join-one__btn thm-btn">
               <i class="fas fa-arrow-circle-right"></i>
               Learn More
-            </nuxt-link>
+            </nuxt-link> -->
           </div>
         </div>
       </div>

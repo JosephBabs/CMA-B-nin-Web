@@ -11,7 +11,7 @@
                 alt=""
               />
               <div class="about-page__trusted">
-                <h3>We’re trusted by <span>9,8750</span> donors</h3>
+                <h3>A propos <span>de</span> la CMA-Bénin</h3>
               </div>
             </div>
           </div>
@@ -19,22 +19,24 @@
         <div class="col-xl-6">
           <div class="about-page__right">
             <div class="section-title text-left">
-              <span class="section-title__tagline">Our Inroductions</span>
+              <span class="section-title__tagline">CMA-Bénin?</span>
               <h2 class="section-title__title">
-                We believe that we can save more lifes
+                Pourquoi la CMA-Bénin?
               </h2>
             </div>
             <p class="about-page__right-text">
-              We are trusted by our clients and have a reputation for the best
-              services in the field. Lorem ipsum is simply free text dolor sit
-              amett consectetur adipiscing elit. It is a long established fact
-              that a reader will be distracted by the readable content of a
-              page.
+              La Chambre des Métiers de l'artisanat du Bénin a été  
+              créée suite à la volonté du Chef de l'état S.E.M Patrice TALON de moderniser 
+              le secteur de l'artisanat. La CMA Benin est un établissement public à  caractère 
+              professionnel doté de la personnalité morale et de l'autonomie financière. 
+          Elle est régie par la loi 2020-24 du 02 Septembre 2020 et placée sous tutelle du ministère des 
+          PME et de la Promotion de l'emploi. 
+
             </p>
             <h3 class="about-page__right-title">
-              Halpes is the largest global crowdfunding community in the world
+              La CMA Benin a été installée le 27 Septembre 2022.
             </h3>
-            <div class="about-five__progress-wrap">
+            <!-- <div class="about-five__progress-wrap">
               <div class="about-five__progress">
                 <div class="about-five__progress-box">
                   <div class="circle-progress">
@@ -50,7 +52,7 @@
                       />
                     </client-only>
                   </div>
-                  <!-- /.circle-progress -->
+                  
                   <span>90%</span>
                 </div>
                 <div class="about-five__progress-content">
@@ -72,15 +74,14 @@
                       />
                     </client-only>
                   </div>
-                  <!-- /.circle-progress -->
+                  
                   <span>50%</span>
                 </div>
-                <!-- /.about-five__progress-box -->
                 <div class="about-five__progress-content">
                   <h3>Amazing donors</h3>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>

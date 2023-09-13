@@ -7,8 +7,9 @@
         </nuxt-link>
       </div>
       <div class="main-menu-wrapper">
+        <div class="main-header__in"></div>
         <div class="main-menu-wrapper__top">
-          <div class="main-menu-wrapper__top-inner">
+          <!-- <div class="main-menu-wrapper__top-inner">
             <div class="main-menu-wrapper__left">
               <div class="main-menu-wrapper__left-content">
                 <div class="main-menu-wrapper__left-text">
@@ -34,7 +35,7 @@
                 <a href="#"><i class="fab fa-instagram"></i></a>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
         <div class="main-menu-wrapper__bottom">
           <nav class="main-menu">
@@ -81,8 +82,8 @@
                   class="main-menu__search search-toggler icon-magnifying-glass"
                   @click="searchPopupStatusChange"
                 ></a>
-                <a href="#" class="main-menu__cart icon-shopping-cart"></a>
-                <div class="main-menu__phone-contact">
+                <!-- <a href="#" class="main-menu__cart icon-shopping-cart"></a> -->
+                <!-- <div class="main-menu__phone-contact">
                   <div class="main-menu__phone-icon">
                     <span class="icon-chat"></span>
                   </div>
@@ -93,7 +94,7 @@
                 </div>
                 <nuxt-link to="/causes-details" class="main-menu__donate-btn"
                   ><i class="fa fa-heart"></i>Donate
-                </nuxt-link>
+                </nuxt-link> -->
               </div>
             </div>
           </nav>
@@ -102,11 +103,22 @@
     </header>
 
     <div
-      :class="`stricky-header stricked-menu main-menu ${
+      :class="`stricky-header stricked-menu main-menu p-10 ${
         sticky ? 'stricky-fixed' : ''
       }`"
     >
+    
+      
+
       <div class="sticky-header__content">
+        
+        <div class="main-header__logo">
+          <nuxt-link to="/">
+            <img :src="require(`~/assets/images${logo.light}`)" alt="" />
+          </nuxt-link>
+        </div>
+        <div class="main-header__in"></div>
+
         <div class="main-menu__inner">
           <a
             href="#"
@@ -142,19 +154,7 @@
               class="main-menu__search search-toggler icon-magnifying-glass"
               @click="searchPopupStatusChange"
             ></a>
-            <a href="#" class="main-menu__cart icon-shopping-cart"></a>
-            <div class="main-menu__phone-contact">
-              <div class="main-menu__phone-icon">
-                <span class="icon-chat"></span>
-              </div>
-              <div class="main-menu__phone-number">
-                <p>Call Anytime</p>
-                <a href="tel:92 666 888 0000">92 666 888 0000</a>
-              </div>
-            </div>
-            <nuxt-link to="/causes-details" class="main-menu__donate-btn"
-              ><i class="fa fa-heart"></i>Donate
-            </nuxt-link>
+            
           </div>
         </div>
       </div>
