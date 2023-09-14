@@ -2,9 +2,9 @@ import { resolve } from "path";
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "Halpes || Vue Nuxt Template For Donation Services",
+    title: "CMA-Bénin",
     htmlAttrs: {
-      lang: "en",
+      lang: "fr",
     },
     meta: [
       {
@@ -28,7 +28,7 @@ export default {
       {
         rel: "icon",
         type: "image/x-icon",
-        href: "/favicon.ico",
+        href: "/favicon.icon",
       },
       {
         rel: "stylesheet",

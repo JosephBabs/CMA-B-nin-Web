@@ -14,9 +14,9 @@
         ><i class="fa fa-times"></i
       ></span>
 
-      <div class="logo-box">
+      <div class="logo-box" >
         <nuxt-link to="/">
-          <img
+          <img style="background-color: white;"
             :src="require(`~/assets/images${logo.light}`)"
             width="155"
             alt=""
@@ -67,21 +67,21 @@
       <ul class="mobile-nav__contact list-unstyled">
         <li>
           <i class="fa fa-envelope"></i>
-          <a href="mailto:needhelp@packageName__.com">needhelp@halpes.com</a>
+          <a href="mailto:info@cmabenin.bj">info@cmabenin.bj</a>
         </li>
         <li>
           <i class="fa fa-phone-alt"></i>
-          <a href="tel:666-888-0000">666 888 0000</a>
+          <a href="tel:+22940687884">+(229) 40 68 78 84</a>
         </li>
       </ul>
       <!-- /.mobile-nav__contact -->
       <div class="mobile-nav__top">
-        <div class="mobile-nav__social">
+        <!-- <div class="mobile-nav__social">
           <a href="#" class="fab fa-twitter"></a>
           <a href="#" class="fab fa-facebook-square"></a>
           <a href="#" class="fab fa-pinterest-p"></a>
           <a href="#" class="fab fa-instagram"></a>
-        </div>
+        </div> -->
         <!-- /.mobile-nav__social -->
       </div>
       <!-- /.mobile-nav__top -->

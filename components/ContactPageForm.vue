@@ -27,8 +27,8 @@
                     <span class="icon-chat"></span>
                   </div>
                   <div class="text">
-                    <p>Call Anytime</p>
-                    <a href="tel:92 666 888 0000">92 666 888 0000</a>
+                    <p>Télémone</p>
+                    <a href="tel:+22940687884">+(229) 40 68 78 84</a>
                   </div>
                 </li>
                 <li>
@@ -36,9 +36,9 @@
                     <span class="icon-message"></span>
                   </div>
                   <div class="text">
-                    <p>Send Email</p>
-                    <a href="mailto:needhelp@company.com"
-                      >needhelp@company.com</a
+                    <p>Adresse E-mail</p>
+                    <a href="mailto:info@cmabenin.bj"
+                      >info@cmabenin.bj</a
                     >
                   </div>
                 </li>
@@ -47,8 +47,8 @@
                     <span class="icon-address"></span>
                   </div>
                   <div class="text">
-                    <p>Visit Office</p>
-                    <h5>80 broklyn golden street</h5>
+                    <p>Adresse</p>
+                    <h5>ZONE CEN-SAD/ Quartier Ahwanleko plage, a coté de la commission de l'UEMOA</h5>
                   </div>
                 </li>
               </ul>

@@ -1,6 +1,6 @@
 <template>
   <div class="main-slider__counter">
-    <ul class="main-slider__counter-box list-unstyled">
+    <!-- <ul class="main-slider__counter-box list-unstyled">
       <li
         v-for="count in sliderOneCounter"
         :key="count.index"
@@ -16,7 +16,7 @@
         </h3>
         <span class="main-slider__counter-text">{{ count.text }}</span>
       </li>
-    </ul>
+    </ul> -->
   </div>
 </template>
 

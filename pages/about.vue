@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <PageHeader pageTitle="About Us" pageName="About" />
+    <PageHeader pageTitle="A propos de la CMA-Bénin" pageName="A propos" />
     <AboutOne />
     <TestimonialsCarouselOne className="about-page-testimonial" />
     <CallToActionTwo className="join-one__about" />

@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <PageHeader pageTitle="Gallery" pageName="Gallery" />
+    <PageHeader pageTitle="Gallerie" pageName="Gallerie" />
     <GalleryGrid />
     <Footer />
     <SearchPopup />

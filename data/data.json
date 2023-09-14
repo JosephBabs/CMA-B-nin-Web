@@ -51,7 +51,7 @@
     {
       "image": "/backgrounds/main-slider-2-2.jpg",
       "subtitle": "CMA-Bénin",
-      "title": "Chambre des <br>Métiers de l'artisanat",
+      "title": "Au service des Artisants",
       "buttonLabel": "En savoir plus",
       "buttonUrl": "/about"
     }
@@ -107,8 +107,8 @@
     }
   ],
   "callToAction": {
-    "floatedText": "Become a Volunteers",
-    "title": "Join your hand with us for <br /> a better life and future",
+    "floatedText": "CMA-Bénin",
+    "title": "Au service des Artisants<br />",
     "button": {
       "label": "Learn More",
       "url": "/contact"

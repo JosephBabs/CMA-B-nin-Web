@@ -3725,7 +3725,8 @@ h6 {
 }
 
 .site-footer__bottom-logo {
-  background-color: var(--thm-primary);
+  /* background-color: var(--thm-primary); */
+  background-color: #ffffff;
   padding: 43.5px 69.5px;
 }
 
