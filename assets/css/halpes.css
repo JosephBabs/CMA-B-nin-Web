@@ -268,9 +268,9 @@ h6 {
   position: relative;
   width: 15%;
   float: left;
-  background-color: var(--thm-primary);
+  background-color: white;
   text-align: center;
-  padding: 44px 0;
+  padding: 22px 0;
 }
 
 .main-header__in {

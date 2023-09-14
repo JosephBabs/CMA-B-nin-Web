@@ -49,7 +49,7 @@
       "buttonUrl": "/about"
     },
     {
-      "image": "/backgrounds/main-slider-3-1.jpg",
+      "image": "/backgrounds/main-slider-2-2.jpg",
       "subtitle": "CMA-Bénin",
       "title": "Chambre des Métiers <br>de l'artisanat",
       "buttonLabel": "En savoir plus",
@@ -95,6 +95,7 @@
       "buttonUrl": "/about"
     }
   ],
+  
   "sliderOneCounter": [
     {
       "count": 4390,
@@ -104,14 +105,6 @@
       "count": 8900,
       "text": "Funds Raised by People"
     },
-    {
-      "count": 8900,
-      "text": "Funds Raised by People"
-    },
-    {
-      "count": 8900,
-      "text": "Funds Raised by People"
-    }
   ],
   "callToAction": {
     "floatedText": "Become a Volunteers",
