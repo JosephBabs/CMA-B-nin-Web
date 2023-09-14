@@ -51,7 +51,7 @@
     {
       "image": "/backgrounds/main-slider-2-2.jpg",
       "subtitle": "CMA-Bénin",
-      "title": "Chambre des Métiers <br>de l'artisanat",
+      "title": "Chambre des <br>Métiers de l'artisanat",
       "buttonLabel": "En savoir plus",
       "buttonUrl": "/about"
     }
@@ -560,7 +560,7 @@
   "features": [
     {
       "title": "Inscription",
-      "text": "Être inscrit au registre des \n métiers de l'artisanat   <br><br><br> ",
+      "text": "Être inscrit au registre des \n métiers de l'artisanat   <br><br> ",
       "icon": "",
       "url": "/causes-details",
       "buttonLabel": ""

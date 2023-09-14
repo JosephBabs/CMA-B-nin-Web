@@ -20,9 +20,9 @@
                   <i class="fas fa-arrow-circle-right"></i>
                   {{ item.buttonLabel }}
                 </nuxt-link>
-                <div class="main-slider__shape-1 zoom-fade">
+                <!-- <div class="main-slider__shape-1 zoom-fade">
                   <img src="~images/shapes/main-slider-1-shape-1.png" alt="" />
-                </div>
+                </div> -->
               </div>
             </div>
           </div>

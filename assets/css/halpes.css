@@ -1596,7 +1596,7 @@ h6 {
   background-repeat: no-repeat;
   background-size: cover;
   transform: scale(1);
-  filter: grayscale(100%);
+  filter: grayscale(10%);
   transition: transform 7000ms ease;
   z-index: 1;
 }
@@ -1662,8 +1662,8 @@ h6 {
   transform: translateY(120px);
   transition-delay: 1000ms;
   transition: transform 2000ms ease, opacity 2000ms ease;
-  font-size: 110px;
-  line-height: 120px;
+  font-size: 90px;
+  line-height: 100px;
 }
 
 .main-slider .thm-btn {
