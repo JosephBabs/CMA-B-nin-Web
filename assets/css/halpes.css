@@ -18,7 +18,7 @@
 # Common
 --------------------------------------------------------------*/
 :root {
-  --thm-font: "Nunito", sans-serif;
+  --thm-font: "montserrat", sans-serif, arial, tahoma, verdana;
   --thm-reey-font: "reeyregular";
   --thm-gray: #707876;
   --thm-gray-rgb: 112, 120, 118;
@@ -27,6 +27,7 @@
   --thm-black: #1f2230;
   --thm-black-rgb: 31, 34, 48;
 }
+/* font-family: var(--font-name), montserrat, sans-serif, calibri, arial, tahoma, verdana; */
 
 .row {
   --bs-gutter-x: 30px;
@@ -2481,7 +2482,7 @@ h6 {
   height: 100%;
   width: 100%;
   content: "";
-  background-color: rgba(var(--thm-primary-rgb), 0.9);
+  background-color: rgba(var(--thm-primary-rgb), 0.7);
   z-index: 2;
 }
 
@@ -2560,11 +2561,11 @@ h6 {
 }
 
 .three-boxes__single-item-1:before {
-  background-color: rgba(235, 173, 35, 0.9);
+  background-color: rgba(235, 173, 35, 0.7);
 }
 
 .three-boxes__single-item-2:before {
-  background-color: rgba(206, 81, 64, 0.9);
+  background-color: rgba(206, 81, 64, 0.7);
 }
 
 /*--------------------------------------------------------------

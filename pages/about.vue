@@ -5,9 +5,9 @@
     <AboutOne />
     <TestimonialsCarouselOne className="about-page-testimonial" />
     <CallToActionTwo className="join-one__about" />
-    <FunfactOne />
+    <ThreeBoxes />
     <VolunteerAbout />
-    <SponsorsOne />
+    <!-- <SponsorsOne /> -->
     <Footer />
     <SearchPopup />
     <MobileDrawer />

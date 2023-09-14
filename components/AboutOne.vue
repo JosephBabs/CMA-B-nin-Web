@@ -32,6 +32,10 @@
           Elle est régie par la loi 2020-24 du 02 Septembre 2020 et placée sous tutelle du ministère des 
           PME et de la Promotion de l'emploi. 
 
+          La Chambre Métiers de l'artisanat du Bénin a pour mission la représentation, la promotion  du 
+              secteur et la protection des intérêts des artisans beninois et des entreprises artisanales auprès 
+              des collectivités locales, des instances nationales sous-régionales et internationales.
+
             </p>
             <h3 class="about-page__right-title">
               La CMA Benin a été installée le 27 Septembre 2022.

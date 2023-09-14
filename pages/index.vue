@@ -6,13 +6,14 @@
     <!-- <CausesCarousel /> -->
     
     <!-- <ContactHome /> -->
+    <TestimonialsCarouselOne className="" />
+
     <GalleryCarousel />
-    <!-- <TestimonialsCarouselOne className="" /> -->
     <!-- <VideoOne /> -->
     <NewsHome />
     <CallToActionTwo className="" />
     <ThreeBoxes />
-    <SponsorsOne />
+    <!-- <SponsorsOne /> -->
     <Footer />
     <SearchPopup />
     <MobileDrawer />

@@ -10,8 +10,8 @@
         <div class="col-xl-4">
           <div class="testimonial-one__left">
             <SectionTitle
-              title="What they’re talking about charity"
-              subTitle="Our Testimonials"
+              title="Les attributions de la CMA-B"
+              subTitle="CMA-Bénin"
               alignment="left"
             />
           </div>
@@ -27,7 +27,7 @@
                       :title="item.title"
                       :designation="item.designation"
                       :excerpt="item.excerpt"
-                      :social="item.social"
+                      :social="item.social" 
                     />
                   </div>
                 </vue-tiny-slider>

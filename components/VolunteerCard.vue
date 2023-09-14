@@ -14,9 +14,9 @@
       <p class="team-one__text-box" v-html="excerpt"></p>
     </div>
     <div class="team-one__social">
-      <a :href="item.url" v-for="item in social" :key="item.index">
+      <!-- <a :href="item.url" v-for="item in social" :key="item.index">
         <i :class="item.icon"></i>
-      </a>
+      </a> -->
     </div>
   </div>
 </template>

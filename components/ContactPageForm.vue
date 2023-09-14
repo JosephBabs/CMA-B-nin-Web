@@ -3,10 +3,10 @@
   <section class="contact-page">
     <div class="container">
       <div class="section-title text-center">
-        <span class="section-title__tagline">Contact With Us</span>
+        <span class="section-title__tagline">Contactez-nous</span>
         <h2 class="section-title__title">
-          We love to hear from our <br />
-          happy customers
+          Pour plus de renseignements <br />
+          
         </h2>
       </div>
       <div class="row">
@@ -16,9 +16,9 @@
               <img src="~images/resources/contact-page-img-1.jpg" alt="" />
             </div>
             <p class="contact-page__text">
-              There are many variations of passages of available but the
-              majority have suffered alteration in some form, by injected humou
-              or randomised words even slightly believable.
+              La Chambre Métiers de l'artisanat du Bénin a pour mission la représentation, la promotion  du 
+              secteur et la protection des intérêts des artisans beninois et des entreprises artisanales auprès 
+              des collectivités locales, des instances nationales sous-régionales et internationales.
             </p>
             <div class="contact-page__contact-info">
               <ul class="contact-page__contact-list list-unstyled">
@@ -64,7 +64,7 @@
               <div class="row">
                 <div class="col-xl-12">
                   <div class="contact-page__input-box">
-                    <input type="text" placeholder="Your name" name="name" />
+                    <input type="text" placeholder="Nom et prénom" name="name" />
                   </div>
                 </div>
               </div>
@@ -73,14 +73,14 @@
                   <div class="contact-page__input-box">
                     <input
                       type="email"
-                      placeholder="Email address"
+                      placeholder="Adresse E-mail"
                       name="email"
                     />
                   </div>
                 </div>
                 <div class="col-xl-6">
                   <div class="contact-page__input-box">
-                    <input type="text" placeholder="Subject" name="subject" />
+                    <input type="text" placeholder="Objet" name="subject" />
                   </div>
                 </div>
               </div>
@@ -89,7 +89,7 @@
                   <div class="contact-page__input-box">
                     <input
                       type="text"
-                      placeholder="Phone Number"
+                      placeholder="Numéro de téléphon ex: +229000000000"
                       name="phone"
                     />
                   </div>
@@ -98,11 +98,11 @@
                   <div class="contact-page__input-box">
                     <textarea
                       name="message"
-                      placeholder="Write message"
+                      placeholder="Saisissez votre message ici"
                     ></textarea>
                   </div>
                   <button type="submit" class="thm-btn contact-page__btn">
-                    <i class="fas fa-arrow-circle-right"></i>Send a Message
+                    <i class="fas fa-arrow-circle-right"></i>Envoyer un message
                   </button>
                 </div>
               </div>

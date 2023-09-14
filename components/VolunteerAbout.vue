@@ -3,8 +3,8 @@
   <section class="team-one">
     <div class="container">
       <SectionTitle
-        title="Meet the best team behind <br> our success story"
-        subTitle="Professional Volunteers"
+        title="Nos Organes"
+        subTitle="CMB-Bénin "
       />
       <div class="row">
         <div
@@ -38,7 +38,7 @@ export default {
   },
   data() {
     return {
-      volunteers: data.volunteers.slice(0, 3),
+      volunteers: data.volunteers.slice(0, 6),
     };
   },
 };

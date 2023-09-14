@@ -285,9 +285,9 @@
   "volunteers": [
     {
       "thumbnail": "/team/team-page-img-1.jpg",
-      "title": "Janne",
-      "designation": "Volunteer",
-      "excerpt": "There are many of lorem ipsum available but the have in some form.",
+      "title": "1",
+      "designation": "L'assemblée consulaire",
+      "excerpt": "  (80 membres)",
       "social": [
         {
           "icon": "fab fa-twitter",
@@ -309,9 +309,9 @@
     },
     {
       "thumbnail": "/team/team-page-img-2.jpg",
-      "title": "David",
-      "designation": "Volunteer",
-      "excerpt": "There are many of lorem ipsum available but the have in some form.",
+      "title": "2",
+      "designation": "Le bureau ",
+      "excerpt": " (05 Membres )",
       "social": [
         {
           "icon": "fab fa-twitter",
@@ -333,9 +333,9 @@
     },
     {
       "thumbnail": "/team/team-page-img-3.jpg",
-      "title": "Sarah",
-      "designation": "Volunteer",
-      "excerpt": "There are many of lorem ipsum available but the have in some form.",
+      "title": "3",
+      "designation": "Les commissions techniques",
+      "excerpt": " (05 Commissions)",
       "social": [
         {
           "icon": "fab fa-twitter",
@@ -357,9 +357,9 @@
     },
     {
       "thumbnail": "/team/team-page-img-4.jpg",
-      "title": "Albert",
-      "designation": "Volunteer",
-      "excerpt": "There are many of lorem ipsum available but the have in some form.",
+      "title": "4",
+      "designation": "Les délégations départementales",
+      "excerpt": " ( 12 délégations)",
       "social": [
         {
           "icon": "fab fa-twitter",
@@ -381,9 +381,9 @@
     },
     {
       "thumbnail": "/team/team-page-img-5.jpg",
-      "title": "Hallen",
-      "designation": "Volunteer",
-      "excerpt": "There are many of lorem ipsum available but the have in some form.",
+      "title": "5",
+      "designation": "Le secrétariat général",
+      "excerpt": " ( Secrétaire Général)",
       "social": [
         {
           "icon": "fab fa-twitter",
@@ -405,9 +405,9 @@
     },
     {
       "thumbnail": "/team/team-page-img-6.jpg",
-      "title": "Pitter",
-      "designation": "Volunteer",
-      "excerpt": "There are many of lorem ipsum available but the have in some form.",
+      "title": "6",
+      "designation": "",
+      "excerpt": "",
       "social": [
         {
           "icon": "fab fa-twitter",
@@ -516,41 +516,65 @@
   "testimonials": [
     {
       "thumbnail": "/testimonial/testimonial-2-img-2.png",
-      "excerpt": "Lorem ipsum is simply free text dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "name": "Jessica Brown",
-      "designation": "Volunteer"
+      "excerpt": "1. Assurer la défense et le plaidoyer des positions du secteur de l'artisanat auprès des instances publiques ;",
+      "name": "",
+      "designation": ""
     },
     {
       "thumbnail": "/testimonial/testimonial-2-img-1.png",
-      "excerpt": "Lorem ipsum is simply free text dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "excerpt": "2. Assister et conseiller les artisans au niveau économique, technologique , juridique ;<br>",
       "name": "Kevin Martin",
       "designation": "Volunteer"
     },
     {
+      "thumbnail": "/testimonial/testimonial-2-img-1.png",
+      "excerpt": "3. Organiser le renforcement des capacités des artisans, la reconnaissance et l'organisation des qualifications et Certifications dans l'artisanat.",
+      "name": "",
+      "designation": ""
+    },
+    {
       "thumbnail": "/testimonial/testimonial-2-img-3.png",
-      "excerpt": "Lorem ipsum is simply free text dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "name": "Mike Hardson",
-      "designation": "Volunteer"
+      "excerpt": "4. Organiser, moderniser l'apprentissage et certifier les qualifications.<br>",
+      "name": "",
+      "designation": ""
+    },
+    {
+      "thumbnail": "/testimonial/testimonial-2-img-3.png",
+      "excerpt": "5. Faciliter l'accès aux services de protection sociale, de santé des artisans et leur famille.",
+      "name": "",
+      "designation": ""
+    },
+    {
+      "thumbnail": "/testimonial/testimonial-2-img-3.png",
+      "excerpt": "6. Assurer la gestion du registre national biométrique des artisans<br><br><br>",
+      "name": "",
+      "designation": ""
+    },
+    {
+      "thumbnail": "/testimonial/testimonial-2-img-3.png",
+      "excerpt": "7. Accompagner les organisations professionnelles d'artisans et favoriser la promotion de l'artisanat béninois..",
+      "name": "",
+      "designation": ""
     }
   ],
   "features": [
     {
       "title": "Inscription",
-      "text": "Être inscrit au registre des métiers de l'artisanat ;\n   ",
+      "text": "Être inscrit au registre des \n métiers de l'artisanat   <br><br><br> ",
       "icon": "",
       "url": "/causes-details",
       "buttonLabel": ""
     },
     {
       "title": "Carte professionnelle",
-      "text": "Être détenteur de la \n carte professionnelle   ",
+      "text": "Être détenteur de la \n carte professionnelle  <br><br><br>",
       "icon": "",
       "url": "/causes-details",
       "buttonLabel": ""
     },
     {
       "title": "Etabli sur territoire",
-      "text": "Être établi sur le territoire béninois et y développer de façon effective ses activités artisanales.,\n     ",
+      "text": "Être établi sur le territoire béninois et y développer de façon effective \n ses activités artisanales.    ",
       "icon": "",
       "url": "/causes-details",
       "buttonLabel": ""
